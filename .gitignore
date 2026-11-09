@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.zip
+faiss_db/
+~$*
+Thumbs.db
+desktop.ini
+*.docx
